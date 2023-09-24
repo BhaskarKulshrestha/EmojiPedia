@@ -1,2 +1,2 @@
-# EmojiPedia made by React
+# EmojiPedia made with React
 **Hosted:** https://emojipediabybhaskar.netlify.app/
